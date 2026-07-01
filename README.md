@@ -12,7 +12,7 @@
 
 ## 🚀 Скачать готовую версию
 
-→ [**[Скачать Logrun.exe](Logrun.exe)**] (https://github.com/vikt-sav/logran-running-log/releases/tag/exe-files) (Windows)
+https://github.com/vikt-sav/logran-running-log/releases/tag/exe-files (Windows)
 
 *(файл ~39 МБ, включает всё необходимое)*
 
